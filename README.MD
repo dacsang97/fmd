@@ -1,6 +1,7 @@
 # fmd
 
 `fmd` is CLI tool to download FrontendMasters.com course videos directly.
+![img](https://i.imgur.com/dodhkLt.png)
 
 ## Installation
 
