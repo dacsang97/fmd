@@ -13,7 +13,11 @@ yarn
 
 ## Config
 
-put your cookie of FrontendMasters page in cookie.txt.
+Put your cookie of FrontendMasters page in cookie.txt.
+I use `EditThisCookie` to export cookie. Choose `Semicolon separated name=value pairs` in `EditThisCookie` option.
+
+My cookie.txt file
+![img](https://i.imgur.com/qnPec7L.png)
 
 ## How to use
 
